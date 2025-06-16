@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ade Pengalasan
 
-<!--
-**adeepe/adeepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh Graduate in Electrical Engineering  
+📊 Aspiring Data Analyst | Proficient in Excel, SQL & Python  
+🚀 Bangkit 2023 Machine Learning Graduate  
+📍 Yogyakarta, Indonesia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Languages:** Python, SQL  
+- **Tools:** Excel, Google Sheets, Power BI, Jupyter Notebook  
+- **Database:** PostgreSQL  
+- **Others:** Data Cleaning, Data Visualization, Forecasting
+
+---
+
+## 📌 Projects Highlight
+- [`salesdata`](https://github.com/adeepe/salesdata): Exploratory analysis & dashboard of sales data using Python & Excel  
+- [`electricity-forecast-lstm`](https://github.com/adeepe/electricity-forecast-lstm): Forecasting electricity usage using LSTM  
+- [`bangkit-capstone-ml`](https://github.com/adeepe/bangkit-capstone-ml): Final project for Bangkit Academy Machine Learning path
+
+---
+
+## 📫 Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/in/adepengalasan/)
+- 📧 ade.pengalasan@gmail.com
